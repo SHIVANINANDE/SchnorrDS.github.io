@@ -1,11 +1,3 @@
-###########################################################
-#                    Authors:
-#       1. Rahul Kumar Gupta - 1815125
-#       2. Arvinder Singh - 1815126
-#       3. Nilam Kumar Kalita – 1815127
-#       4. Pritam Das - 1815128
-#       5. Abhishek Kumar Jha – 1815134
-###########################################################
 
 import random
 import hashlib
